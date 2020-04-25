@@ -1,0 +1,11 @@
+C:\Users\ALPHA\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\ALPHA\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.logın.resources
+C:\Users\ALPHA\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\ALPHA\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Register.resources
+C:\Users\ALPHA\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\ALPHA\Desktop\WINFORM\wınform project\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\ALPHA\Desktop\WINFORM\wınform project\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.logın.resources
+C:\Users\ALPHA\Desktop\WINFORM\wınform project\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\ALPHA\Desktop\WINFORM\wınform project\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Register.resources
+C:\Users\ALPHA\Desktop\WINFORM\wınform project\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\ALPHA\Desktop\WINFORM\wınform project\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.AdminPanel.resources
